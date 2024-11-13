@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitty Varghese
-- 👀 I’m interested in AI applications in electrical engineering domian
-- 🌱 I’m currently pursuing masters in Electrical Engineering at RWTH Aachen University, Germany
+- 👀 I’m interested in AI application development and Information Security measures
+- 🌱 I currently work as an AI Engineer and has a masters degree in Electrical Engineering at RWTH Aachen University, Germany
 - 📫 Reach me at nitty.varghese@gmail.com
 
 <!---
